@@ -3,4 +3,4 @@
 Project includes: 
 - A simple HTML web page to get an input 
 - A Solidity Smart Contract to verify ETH wallet and process gas transactions
-- Used Ether.js to connect web page to the Smart Contract
+- Used Ethers.js to connect web page to the Smart Contract
