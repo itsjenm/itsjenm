@@ -1,3 +1,4 @@
+//Maskify masks the first digits of a credit card number besides the last 4
 function maskify(cc) {
     //if length is greater than 4, then we have things to mask 
     let lastFourDigits = cc.slice(-4);
