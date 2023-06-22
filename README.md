@@ -10,5 +10,5 @@
 - 😄 Pronouns: <b>She/Her/Hers</b>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsjenm)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsjenm&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
