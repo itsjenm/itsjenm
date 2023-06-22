@@ -8,3 +8,5 @@
 - 🤔 I’m looking for help with <b>JS + C + Solidity</b>
 - 📫 How to reach me: <b>jmartinez414@gmail.com</b>
 - 😄 Pronouns: <b>She/Her/Hers</b>
+
+### :fire: My Stats :
