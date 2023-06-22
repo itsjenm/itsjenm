@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
 ### I'm a marketing professional learning UX/UI, Web Dev, and Web3! 
