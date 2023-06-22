@@ -11,4 +11,4 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=itsjenm&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjenm&theme=nightowl&show_icons=true)
